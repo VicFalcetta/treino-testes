@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Anatomy'/>
+        <page name='Measure'/>
+        <page name='AvoidCrashUnwrap'/>
+        <page name='Async'/>
+        <page name='TDD'/>
+        <page name='DeclarationForce'/>
+    </pages>
+</playground>
